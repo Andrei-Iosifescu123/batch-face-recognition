@@ -59,4 +59,4 @@ python3 main.py --target Emily.jpg --query_dir /media/hdd/family_photos
 Feel free to fork the repository and submit pull requests. If you find any issues or have suggestions for improvements, please open an issue.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Andrei-Iosifescu123/batch-face-recognition/blob/main/LICENSE) file for details.
